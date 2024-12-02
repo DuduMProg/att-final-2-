@@ -1,0 +1,1 @@
+Olá, não consegui fazer um banco de dados usando o xampp. Tentei fazer tanto por php e js, assisti diversos videos e não consegui aplicar no meu projeto. Espero que compreenda minha situação. Obrigado
